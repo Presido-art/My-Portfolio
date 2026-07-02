@@ -1,0 +1,5 @@
+/* Import base styles */
+@import url("style.css");
+
+/* Import mobile styles with a built-in media query */
+@import url("mobile.css") screen and (max-width: 768px);
